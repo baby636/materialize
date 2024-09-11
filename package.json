@@ -42,7 +42,7 @@
     "grunt-contrib-jade": "^1.0.0",
     "grunt-contrib-jasmine": "^1.1.0",
     "grunt-contrib-uglify": "^3.0.1",
-    "grunt-contrib-watch": "^1.0.0",
+    "grunt-contrib-watch": "^1.1.0",
     "grunt-notify": "^0.4.5",
     "grunt-postcss": "^0.8.0",
     "grunt-remove-logging": "^0.2.0",
